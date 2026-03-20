@@ -1,0 +1,281 @@
+#: locale=en
+
+## Action
+
+### PDF
+PopupPDFBehaviour_765FC0DF_6C90_E0D8_41D6_2BF98C3A294A.url = files/BROCHURE%20WINDELO%20PERSONALIZED_en.pdf
+PopupPDFBehaviour_71265374_6C90_E1E8_41D3_BC18B92C311A.url = files/BROCHURE%20WINDELO%20PERSONALIZED_en.pdf
+
+### URL
+LinkBehaviour_76598B5F_6656_DA65_41B4_AF32787E6CEB.source = http://www.loremipsum.com
+LinkBehaviour_762B4ABE_6C93_A358_41C0_4195220084D1.source = https://justcatamarans.net/windelo-catamarans/
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_739C5245_6C70_E329_41D7_0818EC2B9CE9.toolTip = Davit raise
+HotspotPanoramaOverlayArea_77C756E1_6C90_A0E8_4198_04ACB0FDA8FF.toolTip = Seat flip
+
+## Media
+
+### Image
+imlevel_799EF50E_6DB3_A138_41D9_F5C7C12E115E.url = media/popup_780CBB6D_6D93_E1F8_41CE_A241F23B82B9_en_0_0.webp
+imlevel_799FF50E_6DB3_A138_41A0_5CA98383DF74.url = media/popup_780CBB6D_6D93_E1F8_41CE_A241F23B82B9_en_0_1.webp
+imlevel_799FC50E_6DB3_A138_41AD_A7CAFCAA97C9.url = media/popup_780CBB6D_6D93_E1F8_41CE_A241F23B82B9_en_0_2.webp
+imlevel_799FD50E_6DB3_A138_41B6_397E06EDA92A.url = media/popup_780CBB6D_6D93_E1F8_41CE_A241F23B82B9_en_0_3.webp
+imlevel_78C83A99_6DB0_A358_41C5_4CB0B6107C2E.url = media/popup_7815F2AD_6D93_A378_41C1_A9F96393E664_en_0_0.webp
+imlevel_78C93A99_6DB0_A358_41D7_28AFD89CE48E.url = media/popup_7815F2AD_6D93_A378_41C1_A9F96393E664_en_0_1.webp
+imlevel_78C91A99_6DB0_A358_41C6_C128FA70A798.url = media/popup_7815F2AD_6D93_A378_41C1_A9F96393E664_en_0_2.webp
+imlevel_78C9FA99_6DB0_A358_41C9_D1AC010FC1F9.url = media/popup_7815F2AD_6D93_A378_41C1_A9F96393E664_en_0_3.webp
+imlevel_7894B2C3_6DB0_E328_41D3_1207277A03AF.url = media/popup_781E503A_6C70_5F58_41DA_54328E3637DF_en_0_0.webp
+imlevel_7895B2C4_6DB0_E328_41D9_B481CB163A09.url = media/popup_781E503A_6C70_5F58_41DA_54328E3637DF_en_0_1.webp
+imlevel_789452C4_6DB0_E328_41CF_A154E7459117.url = media/popup_781E503A_6C70_5F58_41DA_54328E3637DF_en_0_2.webp
+imlevel_789472C4_6DB0_E328_41D1_F281716D1ABE.url = media/popup_781E503A_6C70_5F58_41DA_54328E3637DF_en_0_3.webp
+imlevel_79FF36DF_6DB0_60D8_41B0_F2A30A45D854.url = media/popup_7823D78A_6C70_613B_41CD_D0FAC4CDFBCD_en_0_0.webp
+imlevel_79FC26DF_6DB0_60D8_41AA_A0F3419359F6.url = media/popup_7823D78A_6C70_613B_41CD_D0FAC4CDFBCD_en_0_1.webp
+imlevel_79FC56DF_6DB0_60D8_41C8_3A2AC863B38B.url = media/popup_7823D78A_6C70_613B_41CD_D0FAC4CDFBCD_en_0_2.webp
+imlevel_79FC46DF_6DB0_60D8_41D8_3608B6C28DCD.url = media/popup_7823D78A_6C70_613B_41CD_D0FAC4CDFBCD_en_0_3.webp
+imlevel_78FB0053_6DB0_BF29_418F_9AB57F79DC24.url = media/popup_7833C8F9_6D91_A0D8_41D9_7217303434FD_en_0_0.webp
+imlevel_78FBE053_6DB0_BF29_41AB_4E0DA9B7A4E8.url = media/popup_7833C8F9_6D91_A0D8_41D9_7217303434FD_en_0_1.webp
+imlevel_78FBD053_6DB0_BF29_41D2_0EEC67240CE1.url = media/popup_7833C8F9_6D91_A0D8_41D9_7217303434FD_en_0_2.webp
+imlevel_78FBB053_6DB0_BF29_414D_E702F276DC7A.url = media/popup_7833C8F9_6D91_A0D8_41D9_7217303434FD_en_0_3.webp
+imlevel_799B4F02_6DB0_6128_41D4_5AFD9AC1D912.url = media/popup_7834015B_6D90_61D8_41CE_BB5455A4340C_en_0_0.webp
+imlevel_79984F02_6DB0_6128_41D1_F4D24B61F110.url = media/popup_7834015B_6D90_61D8_41CE_BB5455A4340C_en_0_1.webp
+imlevel_79987F02_6DB0_6128_41B3_9E56B13F3145.url = media/popup_7834015B_6D90_61D8_41CE_BB5455A4340C_en_0_2.webp
+imlevel_79986F02_6DB0_6128_41B1_726F7333966B.url = media/popup_7834015B_6D90_61D8_41CE_BB5455A4340C_en_0_3.webp
+imlevel_796F9D6D_6DB0_61F8_417A_14F4AB95225A.url = media/popup_78373779_6DB1_A1D8_41D4_24DCFCAA275D_en_0_0.webp
+imlevel_796C9D6D_6DB0_61F8_41D2_C41703DFDBE0.url = media/popup_78373779_6DB1_A1D8_41D4_24DCFCAA275D_en_0_1.webp
+imlevel_796CAD6D_6DB0_61F8_419B_5AF6C3E8388F.url = media/popup_78373779_6DB1_A1D8_41D4_24DCFCAA275D_en_0_2.webp
+imlevel_796CCD6D_6DB0_61F8_41BD_60321767B838.url = media/popup_78373779_6DB1_A1D8_41D4_24DCFCAA275D_en_0_3.webp
+imlevel_79A9693E_6DB1_A158_41C8_29DF9D0B7D94.url = media/popup_7848245C_6C70_A7D8_41D4_BB61E108322A_en_0_0.webp
+imlevel_79A9593E_6DB1_A158_41C3_75D286955C60.url = media/popup_7848245C_6C70_A7D8_41D4_BB61E108322A_en_0_1.webp
+imlevel_79A9493E_6DB1_A158_41A1_CF1A1AD388F0.url = media/popup_7848245C_6C70_A7D8_41D4_BB61E108322A_en_0_2.webp
+imlevel_79A9393E_6DB1_A158_41CF_0DF18EF2448C.url = media/popup_7848245C_6C70_A7D8_41D4_BB61E108322A_en_0_3.webp
+imlevel_79B68363_6DB1_A1E8_41C8_0B531119DF9E.url = media/popup_784F4DFE_6C70_60D8_41D5_3358092ADA7F_en_0_0.webp
+imlevel_79B67364_6DB1_A1E8_41C9_4F28FE9C129D.url = media/popup_784F4DFE_6C70_60D8_41D5_3358092ADA7F_en_0_1.webp
+imlevel_79B66364_6DB1_A1E8_41C1_046FBBD9D343.url = media/popup_784F4DFE_6C70_60D8_41D5_3358092ADA7F_en_0_2.webp
+imlevel_79B65364_6DB1_A1E8_41BF_3CF60BCD7B3D.url = media/popup_784F4DFE_6C70_60D8_41D5_3358092ADA7F_en_0_3.webp
+imlevel_79EC3C57_6DB0_6728_41CE_48D9B6C3E46D.url = media/popup_784FC8CC_6C73_AF3F_41CD_5B4F64DFAF02_en_0_0.webp
+imlevel_79EC5C57_6DB0_6728_41C6_0A730485F983.url = media/popup_784FC8CC_6C73_AF3F_41CD_5B4F64DFAF02_en_0_1.webp
+imlevel_79EC4C57_6DB0_6728_41DA_65AB50652ECD.url = media/popup_784FC8CC_6C73_AF3F_41CD_5B4F64DFAF02_en_0_2.webp
+imlevel_79EC7C58_6DB0_67D8_41D8_F39BA0B28116.url = media/popup_784FC8CC_6C73_AF3F_41CD_5B4F64DFAF02_en_0_3.webp
+imlevel_7963D348_6DB0_6127_41D6_8F77472F8D2D.url = media/popup_78510705_6D90_6128_41D8_7C7BD10746A5_en_0_0.webp
+imlevel_7960D348_6DB0_6127_41A3_9E9A5890FBE3.url = media/popup_78510705_6D90_6128_41D8_7C7BD10746A5_en_0_1.webp
+imlevel_7960C348_6DB0_6127_41C7_1121B60E204D.url = media/popup_78510705_6D90_6128_41D8_7C7BD10746A5_en_0_2.webp
+imlevel_7960F348_6DB0_6127_41A5_0FE2D4AD4E0E.url = media/popup_78510705_6D90_6128_41D8_7C7BD10746A5_en_0_3.webp
+imlevel_78E80640_6DB0_A328_41BE_69D79864AEEF.url = media/popup_7866E26C_6DB0_A3F8_41B4_87D0EA60EE9E_en_0_0.webp
+imlevel_78E8F640_6DB0_A328_41D6_5844990B1F5C.url = media/popup_7866E26C_6DB0_A3F8_41B4_87D0EA60EE9E_en_0_1.webp
+imlevel_78E8D640_6DB0_A328_41BD_5A2C9D54D620.url = media/popup_7866E26C_6DB0_A3F8_41B4_87D0EA60EE9E_en_0_2.webp
+imlevel_78E8B640_6DB0_A328_41C4_66F0680CE3BE.url = media/popup_7866E26C_6DB0_A3F8_41B4_87D0EA60EE9E_en_0_3.webp
+imlevel_7B1D5C8F_6DB0_A738_41B0_7F5974463D2C.url = media/popup_786EDE8B_6DB0_A338_41D3_C319DD97BE30_en_0_0.webp
+imlevel_7B1A5C8F_6DB0_A738_41BB_AD1B2CB5BF23.url = media/popup_786EDE8B_6DB0_A338_41D3_C319DD97BE30_en_0_1.webp
+imlevel_7B1A4C8F_6DB0_A738_41CC_DDB2C30462B4.url = media/popup_786EDE8B_6DB0_A338_41D3_C319DD97BE30_en_0_2.webp
+imlevel_7B1A2C8F_6DB0_A738_41C0_79F159349398.url = media/popup_786EDE8B_6DB0_A338_41D3_C319DD97BE30_en_0_3.webp
+imlevel_7843D0A2_6DB0_DF68_41D1_C56335AD86F3.url = media/popup_78740F23_6C73_E168_41CE_0BC19E34E959_en_0_0.webp
+imlevel_7840D0A2_6DB0_DF68_41D1_B59E806BA91C.url = media/popup_78740F23_6C73_E168_41CE_0BC19E34E959_en_0_1.webp
+imlevel_7840E0A2_6DB0_DF68_41A0_8804A4F832FA.url = media/popup_78740F23_6C73_E168_41CE_0BC19E34E959_en_0_2.webp
+imlevel_7840A0A2_6DB0_DF68_41BD_5725D9270D0F.url = media/popup_78740F23_6C73_E168_41CE_0BC19E34E959_en_0_3.webp
+imlevel_781C722C_6DB0_A378_41D4_0D5C213A2D17.url = media/popup_787FDFB9_6C70_A158_41D4_ECCE30B0C904_en_0_0.webp
+imlevel_781D722C_6DB0_A378_41D8_E4AAE1F2BD3B.url = media/popup_787FDFB9_6C70_A158_41D4_ECCE30B0C904_en_0_1.webp
+imlevel_781D522C_6DB0_A378_41C5_6ECE209F9A12.url = media/popup_787FDFB9_6C70_A158_41D4_ECCE30B0C904_en_0_2.webp
+imlevel_781DB22C_6DB0_A378_41D4_9B815D867AF9.url = media/popup_787FDFB9_6C70_A158_41D4_ECCE30B0C904_en_0_3.webp
+imlevel_79A384B4_6DB0_6768_41B2_FE890C71D5D6.url = media/popup_789A1457_6C70_E728_41A7_7B38AAFDBC3C_en_0_0.webp
+imlevel_79A394B4_6DB0_6768_41B5_0A29B6F573CF.url = media/popup_789A1457_6C70_E728_41A7_7B38AAFDBC3C_en_0_1.webp
+imlevel_79A3A4B4_6DB0_6768_41D8_61FBB3077F4E.url = media/popup_789A1457_6C70_E728_41A7_7B38AAFDBC3C_en_0_2.webp
+imlevel_79A3B4B4_6DB0_6768_41CC_034E2BA3401D.url = media/popup_789A1457_6C70_E728_41A7_7B38AAFDBC3C_en_0_3.webp
+imlevel_783C5DA8_6DB0_A178_41C5_F36FD4379E0A.url = media/popup_789E4302_6C71_A128_41CF_2B9CB19BC898_en_0_0.webp
+imlevel_783CADA8_6DB0_A178_41D5_97BCB791FD29.url = media/popup_789E4302_6C71_A128_41CF_2B9CB19BC898_en_0_1.webp
+imlevel_783CBDA8_6DB0_A178_41B6_2BB3150C654E.url = media/popup_789E4302_6C71_A128_41CF_2B9CB19BC898_en_0_2.webp
+imlevel_783C9DA9_6DB0_A178_41CD_3E1C74D9A892.url = media/popup_789E4302_6C71_A128_41CF_2B9CB19BC898_en_0_3.webp
+imlevel_796967C2_6DB0_6128_41C9_F335BA1299A9.url = media/popup_78A9D353_6DB0_A128_419A_9BEF85E3CDA9_en_0_0.webp
+imlevel_796977C2_6DB0_6128_41CD_B30C6965A03C.url = media/popup_78A9D353_6DB0_A128_419A_9BEF85E3CDA9_en_0_1.webp
+imlevel_796897C2_6DB0_6128_41B8_57A2AFB8CA0E.url = media/popup_78A9D353_6DB0_A128_419A_9BEF85E3CDA9_en_0_2.webp
+imlevel_7968A7C2_6DB0_6128_41D9_25686010ABDD.url = media/popup_78A9D353_6DB0_A128_419A_9BEF85E3CDA9_en_0_3.webp
+imlevel_79AE7F1C_6DB1_A158_41D8_5BD61F721202.url = media/popup_78B35C61_6C71_E7E9_41CA_6B16C6713B8C_en_0_0.webp
+imlevel_79AD7F1C_6DB1_A158_41DA_535C398229BF.url = media/popup_78B35C61_6C71_E7E9_41CA_6B16C6713B8C_en_0_1.webp
+imlevel_79AD5F1C_6DB1_A158_41CC_CC80CE119F61.url = media/popup_78B35C61_6C71_E7E9_41CA_6B16C6713B8C_en_0_2.webp
+imlevel_79AD4F1C_6DB1_A158_41CD_B06FD1D38349.url = media/popup_78B35C61_6C71_E7E9_41CA_6B16C6713B8C_en_0_3.webp
+imlevel_79923AC8_6DB3_A338_41CB_B278081A3E30.url = media/popup_78B766D7_6DB3_A328_419D_CA5E53C9AC98_en_0_0.webp
+imlevel_79920AC8_6DB3_A338_41AA_EFA849D9E061.url = media/popup_78B766D7_6DB3_A328_419D_CA5E53C9AC98_en_0_1.webp
+imlevel_79921AC8_6DB3_A338_41D1_C70B5A5AE8CF.url = media/popup_78B766D7_6DB3_A328_419D_CA5E53C9AC98_en_0_2.webp
+imlevel_79927AC8_6DB3_A338_41B4_1212762C7510.url = media/popup_78B766D7_6DB3_A328_419D_CA5E53C9AC98_en_0_3.webp
+imlevel_796867B1_6DB0_6168_41D4_105E553A979A.url = media/popup_78DBDA16_6DB7_E328_41CE_4D5A68C0E95D_en_0_0.webp
+imlevel_796877B1_6DB0_6168_41D7_BEE9365C92EA.url = media/popup_78DBDA16_6DB7_E328_41CE_4D5A68C0E95D_en_0_1.webp
+imlevel_796B87B1_6DB0_6168_41CE_AD7298FEE928.url = media/popup_78DBDA16_6DB7_E328_41CE_4D5A68C0E95D_en_0_2.webp
+imlevel_796B97B1_6DB0_6168_4164_9BFA24678B3E.url = media/popup_78DBDA16_6DB7_E328_41CE_4D5A68C0E95D_en_0_3.webp
+imlevel_782FC3E8_6DB0_A0F8_41C0_65D86AB2E8C4.url = media/popup_78FA0A88_6C70_6338_41AD_4A53EC58A042_en_0_0.webp
+imlevel_782CC3E8_6DB0_A0F8_41D1_046BF1B96B70.url = media/popup_78FA0A88_6C70_6338_41AD_4A53EC58A042_en_0_1.webp
+imlevel_782F23E8_6DB0_A0F8_41DA_6DC0AE11D720.url = media/popup_78FA0A88_6C70_6338_41AD_4A53EC58A042_en_0_2.webp
+imlevel_782F03E8_6DB0_A0F8_41B3_9565DFB681B9.url = media/popup_78FA0A88_6C70_6338_41AD_4A53EC58A042_en_0_3.webp
+imlevel_79DDEAB2_6DB0_6368_41D0_6154163AB824.url = media/popup_791B1E40_6C7F_A328_41CA_2686EC860A20_en_0_0.webp
+imlevel_79DAEAB2_6DB0_6368_41DA_EC1F70BF0F49.url = media/popup_791B1E40_6C7F_A328_41CA_2686EC860A20_en_0_1.webp
+imlevel_79DAFAB2_6DB0_6368_41C5_C7EF4F82A95B.url = media/popup_791B1E40_6C7F_A328_41CA_2686EC860A20_en_0_2.webp
+imlevel_79DD0AB2_6DB0_6368_41B6_A13BB9460060.url = media/popup_791B1E40_6C7F_A328_41CA_2686EC860A20_en_0_3.webp
+imlevel_78A90EEB_6DB0_E0F8_41CE_AEAB3F3BF2E7.url = media/popup_7920FA1F_6D97_A358_41DB_0985D94413B0_en_0_0.webp
+imlevel_78B63EED_6DB0_E0F9_41CB_50997C805A08.url = media/popup_7920FA1F_6D97_A358_41DB_0985D94413B0_en_0_1.webp
+imlevel_78B62EED_6DB0_E0F9_41DA_948B4DD03C35.url = media/popup_7920FA1F_6D97_A358_41DB_0985D94413B0_en_0_2.webp
+imlevel_78B6CEED_6DB0_E0F9_41D3_3B090B5A3ABC.url = media/popup_7920FA1F_6D97_A358_41DB_0985D94413B0_en_0_3.webp
+imlevel_78652CC6_6DB0_E728_41B9_F16AB4176BFE.url = media/popup_795C6FBD_6C70_A158_4181_4997C517DA8A_en_0_0.webp
+imlevel_78653CC6_6DB0_E728_41B1_C2C122343664.url = media/popup_795C6FBD_6C70_A158_4181_4997C517DA8A_en_0_1.webp
+imlevel_7865DCC6_6DB0_E728_41DA_EB781B255F36.url = media/popup_795C6FBD_6C70_A158_4181_4997C517DA8A_en_0_2.webp
+imlevel_7865ECC6_6DB0_E728_41D8_8369DA9F1427.url = media/popup_795C6FBD_6C70_A158_4181_4997C517DA8A_en_0_3.webp
+imlevel_783CFDB2_6DB0_A168_41D2_96142CDFE466.url = media/popup_79C0984E_6C70_EF38_41CB_9044B5F0A0C9_en_0_0.webp
+imlevel_783DFDB2_6DB0_A168_41AD_B94A879246EC.url = media/popup_79C0984E_6C70_EF38_41CB_9044B5F0A0C9_en_0_1.webp
+imlevel_783DCDB2_6DB0_A168_41C4_04247A299085.url = media/popup_79C0984E_6C70_EF38_41CB_9044B5F0A0C9_en_0_2.webp
+imlevel_783C2DB3_6DB0_A168_41D7_47B2E7A1C317.url = media/popup_79C0984E_6C70_EF38_41CB_9044B5F0A0C9_en_0_3.webp
+imlevel_7989A0E7_6DB3_A0E8_41D7_3C27F41E039A.url = media/popup_79DDF69C_6DB0_E358_41D2_95CB8C309E09_en_0_0.webp
+imlevel_7996A0E7_6DB3_A0E8_41C1_C1F12E9C2BDF.url = media/popup_79DDF69C_6DB0_E358_41D2_95CB8C309E09_en_0_1.webp
+imlevel_799680E7_6DB3_A0E8_41C0_DC6E764C5DE6.url = media/popup_79DDF69C_6DB0_E358_41D2_95CB8C309E09_en_0_2.webp
+imlevel_7996F0E7_6DB3_A0E8_4198_ECCC1915DC96.url = media/popup_79DDF69C_6DB0_E358_41D2_95CB8C309E09_en_0_3.webp
+imlevel_7886C914_6DB0_E128_41C8_1A335FC61AD3.url = media/popup_79DECA96_6C71_E328_41A3_DAEBF92702AF_en_0_0.webp
+imlevel_7886E914_6DB0_E128_41B4_1197DC3E298F.url = media/popup_79DECA96_6C71_E328_41A3_DAEBF92702AF_en_0_1.webp
+imlevel_78869914_6DB0_E128_41A0_D3A429492809.url = media/popup_79DECA96_6C71_E328_41A3_DAEBF92702AF_en_0_2.webp
+imlevel_7886B914_6DB0_E128_41D4_D6A0ACE921F7.url = media/popup_79DECA96_6C71_E328_41A3_DAEBF92702AF_en_0_3.webp
+imlevel_79670935_6DB0_6168_41D7_F517E03E096B.url = media/popup_79E39F13_6D90_6129_41A8_D7BCC8DAF1C5_en_0_0.webp
+imlevel_79673935_6DB0_6168_41D6_906A27FCB9FC.url = media/popup_79E39F13_6D90_6129_41A8_D7BCC8DAF1C5_en_0_1.webp
+imlevel_79672935_6DB0_6168_41C6_944DDBC3A3DC.url = media/popup_79E39F13_6D90_6129_41A8_D7BCC8DAF1C5_en_0_2.webp
+imlevel_79675936_6DB0_6168_41D1_D1C0CA85D0F6.url = media/popup_79E39F13_6D90_6129_41A8_D7BCC8DAF1C5_en_0_3.webp
+imlevel_79CC70CA_6DB0_7F38_41B5_A04F4909E999.url = media/popup_79E53934_6C70_A168_41CE_4A8A3AABD5D6_en_0_0.webp
+imlevel_79CC60CA_6DB0_7F38_41D2_A8383FC7BBE6.url = media/popup_79E53934_6C70_A168_41CE_4A8A3AABD5D6_en_0_1.webp
+imlevel_79CC90CA_6DB0_7F38_41D8_B11AEC1FD109.url = media/popup_79E53934_6C70_A168_41CE_4A8A3AABD5D6_en_0_2.webp
+imlevel_79CC80CA_6DB0_7F38_4192_F6E889488CCA.url = media/popup_79E53934_6C70_A168_41CE_4A8A3AABD5D6_en_0_3.webp
+imlevel_798DD681_6DB3_A329_41D8_AFCD9C488DF8.url = media/popup_7A007FB4_6DB1_A168_41D1_6FE1F4F0D99A_en_0_0.webp
+imlevel_798DC681_6DB3_A329_41B1_46119E7CF124.url = media/popup_7A007FB4_6DB1_A168_41D1_6FE1F4F0D99A_en_0_1.webp
+imlevel_798D3682_6DB3_A328_41BA_6FDC15D3FCA4.url = media/popup_7A007FB4_6DB1_A168_41D1_6FE1F4F0D99A_en_0_2.webp
+imlevel_798D2682_6DB3_A328_41D1_7F83029EA3C7.url = media/popup_7A007FB4_6DB1_A168_41D1_6FE1F4F0D99A_en_0_3.webp
+imlevel_7850EA38_6DB0_A358_41BF_316728911E2A.url = media/popup_7A584AFB_6C70_E0D8_41A3_916F315E2774_en_0_0.webp
+imlevel_7850DA38_6DB0_A358_41D9_606262638224.url = media/popup_7A584AFB_6C70_E0D8_41A3_916F315E2774_en_0_1.webp
+imlevel_7850CA38_6DB0_A358_41CA_DB6EE88B08B9.url = media/popup_7A584AFB_6C70_E0D8_41A3_916F315E2774_en_0_2.webp
+imlevel_78532A38_6DB0_A358_41C9_B551374DEB69.url = media/popup_7A584AFB_6C70_E0D8_41A3_916F315E2774_en_0_3.webp
+imlevel_78D984BC_6DB0_A75F_41CD_9CDA0B4A6870.url = media/popup_7B1BA35A_6D90_61D8_41BA_736D47BC0BE1_en_0_0.webp
+imlevel_78D994BC_6DB0_A75F_41C7_9C7A0E060A2B.url = media/popup_7B1BA35A_6D90_61D8_41BA_736D47BC0BE1_en_0_1.webp
+imlevel_78D864BC_6DB0_A75F_41C6_2F9E51BBFFB6.url = media/popup_7B1BA35A_6D90_61D8_41BA_736D47BC0BE1_en_0_2.webp
+imlevel_78D844BC_6DB0_A75F_41D8_9C2C8D84820C.url = media/popup_7B1BA35A_6D90_61D8_41BA_736D47BC0BE1_en_0_3.webp
+imlevel_7865ACD7_6DB0_E728_41C5_ACC2F080E003.url = media/popup_7F0E237E_6C70_A1D8_41D0_AB58451E029F_en_0_0.webp
+imlevel_7862ACD7_6DB0_E728_41CD_CBA2A23F47BA.url = media/popup_7F0E237E_6C70_A1D8_41D0_AB58451E029F_en_0_1.webp
+imlevel_7862BCD7_6DB0_E728_41BF_79AB7DA2DB30.url = media/popup_7F0E237E_6C70_A1D8_41D0_AB58451E029F_en_0_2.webp
+imlevel_78655CD7_6DB0_E728_41DA_F36CC2983832.url = media/popup_7F0E237E_6C70_A1D8_41D0_AB58451E029F_en_0_3.webp
+
+### Popup Image
+
+### Title
+album_71B5DE64_6CF0_E3E8_41D4_AEE835D3F4A1_0.label = Aft bench facing aft
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_0.label = Aft bench facing aft
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_1.label = Aft bench facing fwd
+album_71B5DE64_6CF0_E3E8_41D4_AEE835D3F4A1_1.label = Aft bench facing fwd
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C.label = All
+panorama_73F75629_6272_CA09_41C8_228022B78691.label = Bow center
+panorama_6B95EF91_66D2_7AFD_41CD_02C96EB92A74.label = Bow port
+panorama_6A42644E_66D2_4E64_41D2_A563E49A92A6.label = Bow strbrd
+panorama_6A42AA60_66D2_DA5C_41CE_672D070F09EA.label = Coachtop port
+panorama_6A42E9CE_66D2_C667_41A1_A93BB7F96692.label = Coachtop strbrd
+panorama_6A40E2CA_66D2_CA6F_41D0_B3F8C95CAC84.label = Cockpit center
+panorama_6A40DBB6_66D2_DA27_41C1_FEDA3BB3AFEE.label = Cockpit port
+panorama_6A402D49_66D2_3E6D_41AB_7E230A0EE01E.label = Cockpit strbrd
+panorama_6A40E44C_66D2_CE64_41C8_5FA99365BC0B.label = Cockpit strbrd seat
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_2.label = Dishwasher
+panorama_6A40B5E1_66D2_4E5C_41CA_A9E231DF65AE.label = Engine bay port
+panorama_6A40700A_66D2_45EF_41D4_8C73FF521C17.label = Engine bay strbrd
+panorama_6A40A9CD_66D2_4665_4148_33F80818D1A9.label = Galley
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_3.label = Galley inboard fwd cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_4.label = Galley inboard fwd drawer
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_5.label = Galley outboard aft cupboard 1
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_6.label = Galley outboard aft drawer
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_7.label = Galley outboard fwd cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_8.label = Galley outboard fwd drawer
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_9.label = Galley outboard mid cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_10.label = Galley outboard mid drawer
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_11.label = Galley under sink aft
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_12.label = Galley under sink fwd
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_13.label = Guest aft AC
+panorama_6A41F243_66D2_4A5D_41BD_2DBB309E81A4.label = Guest aft berth
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_14.label = Guest aft bottom cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_15.label = Guest aft settee 1
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_16.label = Guest aft storage
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_17.label = Guest aft top cupboard and drawer
+panorama_6A40899F_66D2_46E5_41CE_E447B985A110.label = Guest companionway aft
+panorama_6A405856_66D2_4667_41C4_286F9D3BFEE5.label = Guest companionway midship
+panorama_6A402068_66D3_C62B_41D7_9A5B0C9EAF3E.label = Guest head
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_18.label = Guest laundry bottom cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_19.label = Guest laundry top cupboard
+album_78418A73_6D90_A3E8_41D5_D08EF8237F7B_0.label = Guest office under berth storage 2
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_20.label = Guest office under berth storage 2
+album_78418A73_6D90_A3E8_41D5_D08EF8237F7B_1.label = Guest office under berth storage 3
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_21.label = Guest office under berth storage 3
+panorama_6A41FFE8_66D3_DA2B_41C2_A270D67A7646.label = Guest shower
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_22.label = Guest shower cupboard
+panorama_6A402764_66D3_CA24_41D6_ED2C66F14038.label = Nav staton sitting
+panorama_6A405757_66D3_CA65_4185_B2C2333998E9.label = Office
+panorama_6A407FEC_66D3_FA2B_41C8_E81AED3434CF.label = Office berths down
+panorama_6A4050FA_66D2_462F_41AD_9CA01C4EA5DF.label = Office berths up
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_35.label = Owner Hanging closet
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_24.label = Owner aft aft outboard cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_23.label = Owner aft aft outboard cupboard 1
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_25.label = Owner aft closet plus drawer
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_26.label = Owner aft fwd outboard cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_27.label = Owner aft shelves 1
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_28.label = Owner bathroom bottom cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_29.label = Owner bathroom top cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_30.label = Owner bathroom under sink 1
+panorama_6A408EB1_66D3_DA3C_41CE_6218487F2CDB.label = Owner berth
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_31.label = Owner closet aft bottom cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_32.label = Owner closet aft top cupboard and drawers
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_33.label = Owner closet fwd top cupboard
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_34.label = Owner closet shoe storage
+panorama_6A4005FD_66D3_CE25_41D7_17E34373C7E3.label = Owner closset
+panorama_6A42EDCD_66D2_3E65_41D1_DA3B7EA6EE8A.label = Owner companionway
+panorama_6A40E52A_66D2_4E2F_41BB_04DE3A550CAC.label = Owner head 1
+panorama_6A40ECF8_66D2_5E2B_41D0_C78B2D902B8B.label = Owner head 2
+panorama_6A408C13_66D2_7DFC_41C0_40856810D9DB.label = Owner shower
+album_71B5DE64_6CF0_E3E8_41D4_AEE835D3F4A1.label = Photo Album Aft bench facing aft
+album_78418A73_6D90_A3E8_41D5_D08EF8237F7B.label = Photo Album Guest office under berth storage 2
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_36.label = Refridgerator bottom drawer
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_37.label = Refridgerator top drawer
+panorama_6A436390_66D2_4AFC_41D0_1C72F0DBDECC.label = Saloon
+album_7EA39064_6C91_BFEF_41D5_86AFD3BACE7C_38.label = Saloon TV
+panorama_6A43560D_66D2_4DE5_41C4_48FBA3806491.label = Saloon forward
+panorama_6A43CE73_66D2_3A3D_41C3_EA50A78971C6.label = Side decks port
+panorama_6A5D076F_66D2_CA25_41D0_397B34A4BC36.label = Side decks strbrd
+panorama_6A43E007_66D2_C5E5_41B1_C52D5E751608.label = Stern center
+panorama_6A43E89F_66D2_C6E5_41CC_BBEAF3CD8630.label = Stern port
+panorama_6A432A00_66D2_C5DB_41B1_A7E52D818114.label = Stern strbrd
+video_737FBAF6_6C70_A0E8_41BF_377C45BEE8B5.label = Windelo davit clip
+
+### Video
+videolevel_4DE0B582_6F90_6128_41CA_DDFDC5463BA4.url = media/video_737FBAF6_6C70_A0E8_41BF_377C45BEE8B5_en.mp4
+videolevel_4DE0B582_6F90_6128_41CA_DDFDC5463BA4.posterURL = media/video_737FBAF6_6C70_A0E8_41BF_377C45BEE8B5_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = 360º VIEWS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = 360º VIEWS
+Button_727E644B_7DD2_675A_41A5_E1B24D4186E2.label = GO TO BUY 
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMATION
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = PHOTOALBUM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = PHOTOALBUM
+
+### Image
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_en.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_en.png
+Image_727DA44B_7DD2_675A_4187_461ECAA80913.url = skin/Image_727DA44B_7DD2_675A_4187_461ECAA80913_en.jpg
+Image_76053A52_6CB0_A32B_41A1_601EC6FB83A8.url = skin/Image_76053A52_6CB0_A32B_41A1_601EC6FB83A8_en.png
+Image_763C6921_6C90_6169_41DA_17203355987E.url = skin/Image_763C6921_6C90_6169_41DA_17203355987E_en.png
+
+### Multiline Text
+HTMLText_727E544B_7DD2_675A_41D7_B13EDAF14E19.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.13vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.13vmin;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:5.42vmin;font-family:'Exo';"><B><I>The Arcona 340, is a 34’1” monohull sailboat designed by Stefan Qviberg. She was built by Arcona Yachts.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.63vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Performances:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Upwind sail area to displacementi: 26.25</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Downwind sail area to displacementi: 45.91</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Displacement-Length ratio (DLR)i: 156</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Ballast ratioi: 37 %</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Hull speedi: 7.60 knots</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Auxiliary engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine type: Inboard engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine: 20 HP</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fuel type: Diesel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fuel tank capacity: 26.4 gal </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Accommodation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Cabin(s): 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Berth(s) (min/max): 4 / 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Head(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fresh water tank capacity: 34.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Water heater capacity: 5.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Holding tank capacity: 13.2 gal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Arcona uses resin infusion to create a light, strong hull and deck comprised of multiaxial rovings and vinylester resin with a Divinycell core. A galvanized steel framework in the base of the hull carries the loads generated by the rig and keel. All bulkheads are laminated to the hull and deck. The keel is a lead bulb bolted onto an epoxy-coated cast-iron fin. The keel-stepped mast is by Seldén. Standing rigging is wire.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">A nearly plumb bow and a fairly abrupt reverse transom both look sharp and maximize the boat’s sailing length. End-boom sheeting with traveler and mainsheet controls immediately forward of the helm—right where they belong—show this is a boat that means business on the racecourse.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:4.7vmin;font-family:'Roboto Black';">This is quite simply a nice boat, a sailor’s boat. Its quality construction, styling and many practical seagoing design features result in a smart and make for a fast, comfortable ride underway.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.15vmin;font-family:'Exo';"><B>$178,000</B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:4.189636163175304vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:4.19vmin;font-family:'Exo';"><B><I>2025 Windelo 54</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6px rgba(0,0,0,0.63);text-align:left;font-size:14.515px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:14.52px;font-family:'Exo';"><B><I>2025 Windelo 54</I></B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+Image_763C6921_6C90_6169_41DA_17203355987E.toolTip = Visit website
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 2025 Windelo 54 Cannes show
